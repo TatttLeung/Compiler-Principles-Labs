@@ -1,0 +1,12 @@
+[submodule "LexicalAnalysisGenerator"]
+	path = LexicalAnalysisGenerator
+	url = https://github.com/TatttLeung/LexicalAnalysisGenerator
+[submodule "SLR1Analyse"]
+	path = SLR1Analyse
+	url = https://github.com/TatttLeung/SLR1Analyse
+[submodule "scanner"]
+	path = scanner
+	url = https://github.com/TatttLeung/scanner
+[submodule "TinySyntaxTree"]
+	path = TinySyntaxTree
+	url = https://github.com/TatttLeung/TinySyntaxTree
